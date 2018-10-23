@@ -22,6 +22,6 @@ summary(cars)
 ##  The sunset photo in Cape Code
 
 
-![some caption](sunset.jpg)
+![some caption](https://github.com/Yuqing199411/collab-no1/blob/gh-pagaes/sunset.jpg)
 
 
