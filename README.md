@@ -3,6 +3,6 @@ collatrating github at WHOI
 
 This is a TEST
 
-:sunglasses:
+:sunglasses: :whale: :smile: 
 
 Writing sth to test
